@@ -1,0 +1,14 @@
+D:\SystemHr\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\SystemHr\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\SystemHr\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\SystemHr\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\SystemHr\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+D:\SystemHr\DataAccessLayer\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\SystemHr\DataAccessLayer\bin\Debug\System.Security.AccessControl.dll
+D:\SystemHr\DataAccessLayer\bin\Debug\System.Security.Permissions.dll
+D:\SystemHr\DataAccessLayer\bin\Debug\System.Security.Principal.Windows.dll
+D:\SystemHr\DataAccessLayer\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\SystemHr\DataAccessLayer\bin\Debug\System.Security.AccessControl.xml
+D:\SystemHr\DataAccessLayer\bin\Debug\System.Security.Permissions.xml
+D:\SystemHr\DataAccessLayer\bin\Debug\System.Security.Principal.Windows.xml
+D:\SystemHr\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
